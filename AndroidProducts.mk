@@ -1,0 +1,8 @@
+#
+# SPDX-FileCopyrightText: 2026 The StaticOS Project
+# SPDX-License-Identifier: Apache-2.0
+#
+
+PRODUCT_MAKEFILES := \
+    $(LOCAL_DIR)/static_gts7lwifi.mk
+    
